@@ -2,6 +2,9 @@
 
 [Hypermodern Python Series (part 1)](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
 
+Customizing your pytest test suite [(part 1)](https://raphael.codes/blog/customizing-your-pytest-test-suite-part-1/) [(part 2)](https://raphael.codes/blog/customizing-your-pytest-test-suite-part-2/)
+
+
 
 # Python Libraries
 [Poetry](https://python-poetry.org/) - python packaging and dependency management made easy
