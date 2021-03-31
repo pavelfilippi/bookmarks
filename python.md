@@ -4,6 +4,8 @@
 
 Customizing your pytest test suite [(part 1)](https://raphael.codes/blog/customizing-your-pytest-test-suite-part-1/) [(part 2)](https://raphael.codes/blog/customizing-your-pytest-test-suite-part-2/)
 
+[Building Implicit Interfaces in Python with Protocol Classes](https://andrewbrookins.com/technology/building-implicit-interfaces-in-python-with-protocol-classes/)
+
 
 
 # Python Libraries
