@@ -13,6 +13,9 @@ Customizing your pytest test suite [(part 1)](https://raphael.codes/blog/customi
 * Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices (1st Edition) - Harry Percival, Bob Gregory
 
 
+# Youtube videos
+[Import as an antipattern - Demystifying Dependency Injection in modern Python](https://www.youtube.com/watch?v=qkGxy4c64Jg)
+
 # Python Libraries
 [Poetry](https://python-poetry.org/) - python packaging and dependency management made easy
 
