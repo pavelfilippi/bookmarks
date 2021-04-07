@@ -7,6 +7,11 @@ Customizing your pytest test suite [(part 1)](https://raphael.codes/blog/customi
 [Building Implicit Interfaces in Python with Protocol Classes](https://andrewbrookins.com/technology/building-implicit-interfaces-in-python-with-protocol-classes/)
 
 
+# Python Books
+* Fluent Python: Clear, Concise, and Effective Programming (1st Edition) - Luciano Ramalho
+* Python Tricks: A Buffet of Awesome Python Features - Dan Bader
+* Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices (1st Edition) - Harry Percival, Bob Gregory
+
 
 # Python Libraries
 [Poetry](https://python-poetry.org/) - python packaging and dependency management made easy
