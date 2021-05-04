@@ -16,6 +16,8 @@ Customizing your pytest test suite [(part 1)](https://raphael.codes/blog/customi
 # Youtube videos
 [Import as an antipattern - Demystifying Dependency Injection in modern Python](https://www.youtube.com/watch?v=qkGxy4c64Jg)
 
+[Edwin Jung - Mocking and Patching Pitfalls - PyCon 2019](https://www.youtube.com/watch?v=Ldlz4V-UCFw)
+
 # Python Libraries
 [Poetry](https://python-poetry.org/) - python packaging and dependency management made easy
 
