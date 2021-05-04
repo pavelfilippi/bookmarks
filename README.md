@@ -1,4 +1,4 @@
-# *bookmarks* is a list of interesting/useful articles
+# *bookmarks*
 
 ## [VCS](../main/vcs.md)
 ## [Python](../main/python.md)
