@@ -1,1 +1,3 @@
+# Go Articles
 
+[50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
