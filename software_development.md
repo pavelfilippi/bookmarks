@@ -6,3 +6,5 @@
 [You might as well timestamp it](https://changelog.com/posts/you-might-as-well-timestamp-it)
 
 [Why You Should Document Your Tests](https://hynek.me/articles/document-your-tests/)
+
+[How to write docstrings for tests](https://jml.io/pages/test-docstrings.html)
