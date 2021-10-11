@@ -6,6 +6,7 @@ Customizing your pytest test suite [(part 1)](https://raphael.codes/blog/customi
 
 [Building Implicit Interfaces in Python with Protocol Classes](https://andrewbrookins.com/technology/building-implicit-interfaces-in-python-with-protocol-classes/)
 
+[Logging in Python like a PRO 🐍🌴](https://blog.guilatrova.dev/how-to-log-in-python-like-a-pro/)
 
 # Python Books
 * Fluent Python: Clear, Concise, and Effective Programming (1st Edition) - Luciano Ramalho
