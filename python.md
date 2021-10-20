@@ -12,7 +12,7 @@ Customizing your pytest test suite [(part 1)](https://raphael.codes/blog/customi
 * Fluent Python: Clear, Concise, and Effective Programming (1st Edition) - Luciano Ramalho
 * Python Tricks: A Buffet of Awesome Python Features - Dan Bader
 * Architecture Patterns with Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices (1st Edition) - Harry Percival, Bob Gregory
-
+* Python Concurrency with asyncio - Matthew Fowler
 
 # Youtube videos
 [Import as an antipattern - Demystifying Dependency Injection in modern Python](https://www.youtube.com/watch?v=qkGxy4c64Jg)
