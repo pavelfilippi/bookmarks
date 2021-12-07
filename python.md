@@ -25,3 +25,5 @@ Customizing your pytest test suite [(part 1)](https://raphael.codes/blog/customi
 [Nox](https://nox.thea.codes/en/stable/) - nox is a command-line tool that automates testing in multiple Python environments
 
 [Pydantic](https://pydantic-docs.helpmanual.io/) - pydantic enforces type hints at runtime, and provides user friendly errors when data is invalid.
+
+[FastAPI](https://fastapi.tiangolo.com/) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
